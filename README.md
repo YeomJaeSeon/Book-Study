@@ -9,6 +9,7 @@
 
 ## Meeting
 - 매주 일요일 저녁 8시
+- https://meet.google.com/mvr-rhax-wta
 
 ## PR기한
 - 미팅 당일 정오(12시)
