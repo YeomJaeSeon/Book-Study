@@ -17,4 +17,4 @@
 - [정리 및 느낀점](https://github.com/YeomJaeSeon/Book-Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/%EC%97%BC%EC%9E%AC%EC%84%A0/chapter05.md)
 
 ## chapter06
-- [정리 및 느낀점]
+- [정리 및 느낀점](https://github.com/YeomJaeSeon/Book-Study/blob/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4/%EC%97%BC%EC%9E%AC%EC%84%A0/chapter06.md)
