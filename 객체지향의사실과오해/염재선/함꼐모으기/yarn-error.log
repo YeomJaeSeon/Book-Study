@@ -1,0 +1,36 @@
+Arguments: 
+  /usr/local/Cellar/node/17.4.0/bin/node /usr/local/Cellar/yarn/1.22.17_2/libexec/bin/yarn.js add -D @types/node
+
+PATH: 
+  /Users/yeomjaeseon/bin:/usr/local/bin:/Users/yeomjaeseon/jetbrains:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/yeomjaeseon/bin:/Users/yeomjaeseon/jetbrains:/Users/yeomjaeseon/.fig/bin:/Users/yeomjaeseon/.local/bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  17.4.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/yeomjaeseon/study/Book-Study/객체지향의사실과오해/염재선/함꼐모으기/package.json: Unexpected token } in JSON at position 87
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:310:30)
+      at /usr/local/Cellar/yarn/1.22.17_2/libexec/lib/cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "example",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
