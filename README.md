@@ -1,6 +1,6 @@
 # Book-Study
 
-1. 객체지향의 사실과 오해 (2회독중 ING)
+1. 객체지향의 사실과 오해 (2회독 완료)
 - [리드미 링크](https://github.com/YeomJaeSeon/Book-Study/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%EC%82%AC%EC%8B%A4%EA%B3%BC%EC%98%A4%ED%95%B4)
 
 2. 테스트 주도 설계 시작하기 (하다 말았음. 마저하자)
